@@ -97,9 +97,14 @@ p {
   font-size: 2em;
 }
 
-figcaption {
+h3{
   text-align: center;
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 0.5em;
   color: darkgrey;
+}
+
+figcaption {
+  padding-left: 20px;
+  padding-bottom: 15px;
 }
