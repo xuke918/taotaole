@@ -30,8 +30,15 @@ h2 {
 
 
 img {
-  width: 100%;
+  width: 50%;
 }
+
+
+
+.left {
+  float: left;
+}
+
 
 nav a {
   text-decoration: none;
@@ -88,5 +95,4 @@ footer {
 
 p {
   font-size: 2em;
-  
 }

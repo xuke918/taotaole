@@ -67,3 +67,25 @@ nav li {
   border-radius: 1em;
   background-color: #6AEAF6;
 }
+
+footer {
+  background-color: #FFEC00;
+  text-align: center;
+  margin: 0;
+
+}
+
+.text_8 {
+  font-size: 3em;
+  color: #009344;
+  clear: both;
+
+}
+
+.weixin {
+  width: 100%;
+}
+
+p {
+  font-size: 3em;
+}
