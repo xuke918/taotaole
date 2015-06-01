@@ -87,8 +87,12 @@ footer {
 }
 
 p {
-  font-size: 2em;
+  font-size: 0.9em;
   padding: 15px;
   margin: 0;
 
+}
+
+.dream {
+  font-size: 1.1em;
 }
