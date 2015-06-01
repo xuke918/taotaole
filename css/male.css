@@ -95,6 +95,7 @@ footer {
 
 p {
   font-size: 2em;
+  margin: 0;
 }
 
 h3{
@@ -107,4 +108,19 @@ h3{
 figcaption {
   padding-left: 20px;
   padding-bottom: 15px;
+}
+
+
+footer {
+  background-color: #FFEC00;
+  text-align: center;
+  margin: 0;
+
+}
+
+.text_8 {
+  font-size: 3em;
+  color: #009344;
+  clear: both;
+
 }
