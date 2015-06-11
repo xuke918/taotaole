@@ -105,6 +105,10 @@ p {
 .contact {
   padding-left: 50px;
   font-size: 3em;
+}
 
-
+figcaption {
+  color: grey;
+  font-size: 1.5em;
+  padding: 50px 50px 100px 50px;
 }
