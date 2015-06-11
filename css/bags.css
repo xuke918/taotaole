@@ -89,11 +89,12 @@ footer {
 
 }
 
-.weixin {
+.barcode {
   width: 100%;
 }
 
 p {
+  padding: 50px;
   font-size: 2em;
   margin: 0;
 }
