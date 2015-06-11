@@ -25,7 +25,8 @@ h1 {
 
 h2 {
   text-align: center;
-  color: grey;
+  font-size: 2em;
+
 }
 
 
@@ -81,6 +82,8 @@ footer {
 }
 
 .back {
+  padding: 50px;
+  margin: 0;
   font-size: 3em;
   color: #009344;
   clear: both;
